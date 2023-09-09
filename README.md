@@ -4,7 +4,7 @@
   <img alt="NextLevelWeek" title="Caí de paraquedas no mundo da programação." src="https://3.bp.blogspot.com/-eha5XKVZJs4/WkbHnFIsmzI/AAAAAAAABBo/8DhmDJqn0k8ZHYb0LRsENiqERPXdIgieQCLcBGAs/s1600/0028.gif"/>
 </h1>
 
-<p align="justify">Me chamo Pedro Makson, tenho 20 anos e em 2020 caí de paraquedas no mundo da programção. Após terminar o ensino médio comecei um curso online na área de tecnologia e hoje sou técnico em informática para internet pelo Instituto Metrópole Digital na UFRN. Atualmente, acadêmico de BTI - Bacharelado Interdisciplinar em Tecnologia da Informação na UFERSA.</p>
+<p align="justify">Me chamo Pedro Makson, tenho 21 anos e em 2020 caí de paraquedas no mundo da programção. Após terminar o ensino médio comecei um curso online na área de tecnologia e hoje sou técnico em informática para internet pelo Instituto Metrópole Digital na UFRN. Atualmente, acadêmico de BTI - Bacharelado Interdisciplinar em Tecnologia da Informação na UFERSA.</p>
 
 <br>
 <h2 align="left">Projetos no CodePan</h2>
